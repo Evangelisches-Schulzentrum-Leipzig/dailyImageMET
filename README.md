@@ -7,7 +7,7 @@ This webpage selects an daily image from a list of MET objects ids fetches the i
 - Description with author, title and year 
 
 ## Requirements
-- Browser (in signage software e.g. [Xibo](https://xibosignage.com/)
+- Browser (in signage software e.g. [Xibo](https://xibosignage.com/))
 
 ## License
 [Open Software License 3.0](https://choosealicense.com/licenses/osl-3.0/)
